@@ -77,7 +77,7 @@ _  __  / / /_/ /_  / / / /_ _  _, _// /_ _  / / _  /_/ /_(__  )   |  -----------
 
 Specific Rhadamanthys Command and Control Server Detection Tool
 
-[INFO] Total Scanned IP Addresses: 1 | Detected C2: 1
+[INFO] Total Scanned IP Addresses: 3 | Detected C2: 3
 
     STATUS         IP ADDRESS      CN    ASN      PAGE TITLE          FULL URL
 --  -------------  --------------  ----  -------  ------------------  --------------------------------------------------
