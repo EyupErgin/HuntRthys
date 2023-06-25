@@ -96,6 +96,6 @@ If you would like to contribute to this project, please open an issue or submit 
 
 ### Contact
 If you have any questions or suggestions, please feel free to contact me.<br>
-E-Mail: ergindev@gmail.com <br>
+E-mail: ergindev@gmail.com <br>
 Website: www.ergin.dev <br>
 LinkedIn: www.linkedin.com/in/eyupergin<br>
