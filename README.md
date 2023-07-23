@@ -1,3 +1,4 @@
+
 <p align="center">
   <br>
   <a href="https://ergin.dev"><img src="https://raw.githubusercontent.com/EyupErgin/HuntRthys/main/.img/banner-gray.png" width="400px" alt="HuntRthys"></a>
@@ -92,7 +93,8 @@ Specific Rhadamanthys Command and Control Server Detection Tool
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contributing
-If you would like to contribute to this project, please open an issue or submit a pull request. Any contributions and suggestions are welcome!
+Repo Update Date: 23-07-2023 <br>
+> If you would like to contribute to this project, please open an issue or submit a pull request. Any contributions and suggestions are welcome!
 
 ### Contact
 If you have any questions or suggestions, please feel free to contact me.<br>
